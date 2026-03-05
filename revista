@@ -1,7 +1,7 @@
-echo "# Revista-de-Ing-Mecatronica-FEPZM" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aaronibg07-creator/Revista-de-Ing-Mecatronica-FEPZM.git
-git push -u origin main
+main.text
+\documentclass{article}
+\begin{document}
+
+Hola mundo en LaTeX.
+
+\end{document}
